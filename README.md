@@ -1,6 +1,6 @@
 # splash_screen_demo
 
-A flutter splash screen chalenge for designing a splash screen purely in Dart
+A flutter splash screen challenge for designing a splash screen purely in Dart
 
 ## Getting Started
 
